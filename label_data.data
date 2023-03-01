@@ -1,2 +1,2 @@
 classes = 16
-names = label_map.names
+names = /opt/nuclio/darknet/data/label_map.names
